@@ -1,3 +1,19 @@
+# Portfolio
+The purpose of this repository is to organize all the projects available on my github, it also designed for the recruiters to know about the online training that I have followed on my own.
+
+## Personal projects
+
+- Shiny application on the sentiment analysis of Citibank's Tweets (R)
+- Bokeh visualization with web scrapped information from Airbnb (Python)
+- Shiny application of the marketing operations of a gaming company (R)
+- Segmentation and Prediction of NGO's clients (python)
+- Datamart and tableau visualization of the operations of an bank (python)
+- Tableau visualization of the operations of an aeronautical company (SQL)
+
+
+## Social
+- Linkedin: [Linkedin Profile](https://www.linkedin.com/in/carlosemontenegro/)
+
 ## Datacamp Courses
 Click on the Course Name to go the web site
 
