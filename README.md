@@ -1,4 +1,4 @@
-## Courses and Specializations
+## Datacamp Courses
 Click on the Course Name to go the web site
 
 
