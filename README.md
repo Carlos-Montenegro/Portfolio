@@ -1,22 +1,3 @@
-# Portfolio
-The purpose of this repository is to organize all the projects available on my github, it also designed for the recruiters to know about my competences.
-
-## Data Bases
-
-### In Python
-### In R
-### In SQL
-### In SAS
-
-## Data Engineering
-- Example: [Name](Url)
-- Example: [Name](Url)
-
-
-## Machine Learning
-
-## Social
-
 ## Courses and Specializations
 Click on the Course Name to go the web site
 
