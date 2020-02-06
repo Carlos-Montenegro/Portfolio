@@ -1,5 +1,5 @@
 # Portfolio
-The purpose of this repository is to organize all the projects available on my github, it also designed for the recruiters to know about the online training that I have followed on my own.
+The purpose of this repository is to provide a list of the projects and  online training that I have followed on my own.
 
 ## Personal projects
 
