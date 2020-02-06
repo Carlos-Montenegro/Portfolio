@@ -1,5 +1,5 @@
 # Portfolio
-The purpose of this repository is to provide a list of the projects and  online training that I have followed on my own.
+The purpose of this repository is to provide a list of personal projects and online training that I have done.
 
 ## Personal projects
 
@@ -9,6 +9,7 @@ The purpose of this repository is to provide a list of the projects and  online 
 - Segmentation and Prediction of NGO's clients (python)
 - Datamart and tableau visualization of the operations of an bank (python)
 - Tableau visualization of the operations of an aeronautical company (SQL)
+- Thesis publication
 
 
 ## Social
