@@ -1,13 +1,13 @@
 # Portfolio
-The purpose of this repository is to provide a list of personal projects and online training that I have done.
+The purpose of this repository is to provide a list of the personal data anlysis projects and online training that I have done.
 
 ## Personal projects
 
-- [Shiny application on the sentiment analysis of Citibank's Tweets (R)](https://github.com/Carlos-Montenegro/Text-mining-of-tweets-using-R-and-Shiny)
-- [Bokeh visualization with web scrapped information from Airbnb (Python)](https://github.com/Carlos-Montenegro/Web-scraping-using-python-visualized-in-bokeh)
-- [Shiny application of the marketing operations of a gaming company (R)](https://github.com/Carlos-Montenegro/Marketing-analysis-using-R-and-visualized-in-Shiny)
-- [Customer Segmentation and churn Prediction of an NGO's clients (python)](https://github.com/Carlos-Montenegro/Churn-prediction-in-python)
-- [Tableau visualization of the analysis of operations of an aeronautical company (SQL)](https://github.com/Carlos-Montenegro/Operational-analysis-using-SQL-and-visualized-in-Tableau)
+- [Text Analysis, Markdown report and shiny application of Tweets (R)](https://github.com/Carlos-Montenegro/Text-mining-of-tweets-using-R-and-Shiny)
+- [Web scraping, bokeh visualization and  preprocessing of real estate data (Python)](https://github.com/Carlos-Montenegro/Web-scraping-using-python-visualized-in-bokeh)
+- [Markdown report, shiny application and data preprocesing of a Gaming Company' users information (R)](https://github.com/Carlos-Montenegro/Marketing-analysis-using-R-and-visualized-in-Shiny)
+- [Customer Segmentation, churn Prediction and data preprocessing of an NGO's clients (python)](https://github.com/Carlos-Montenegro/Churn-prediction-in-python)
+- [Tableau visualization of the analysis of the operations of an aeronautical network (SQL)](https://github.com/Carlos-Montenegro/Operational-analysis-using-SQL-and-visualized-in-Tableau)
 
 
 ## Social
