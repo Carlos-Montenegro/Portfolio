@@ -1,5 +1,5 @@
 # Portfolio
-The purpose of this repository is to provide a list of the personal data anlysis projects and online training that I have done.
+The purpose of this repository is to provide a list of some of the personal data anlysis projects and online training that I have done.
 
 ## Personal projects
 
